@@ -3,6 +3,7 @@
 BrowserNote is a collaborative, browser-based note-taking app built using HTML, CSS, and JavaScript. It allows users to create, edit, and delete notes directly in the browser, providing a simple and intuitive interface for managing personal notes.
 
 🚀 Features
+
 Add Notes:
 - Quickly create new notes with a single click.
 
