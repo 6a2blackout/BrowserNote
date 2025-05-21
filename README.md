@@ -44,3 +44,6 @@ Search Functionality:
 
 Categorization:
 - Allow users to categorize or tag notes for better organization.
+
+Containerization with Docker:
+- Plan to containerize the application to simplify deployment and environment management.
